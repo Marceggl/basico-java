@@ -6,12 +6,13 @@
     <br> 
 </p>
 
+---
+
 ## 📝 Conteúdo
 
-- [Utilização de operadores básicos](#operadores_basicos)
+- [objetivo](#objetivo)
+- [Exemplos](https://github.com/Marceggl/basico-java/tree/master/src)
 
-## 🧐 Operadores básicos <a name = "operadores_basicos"></a>
+## Objetivo<a name = "objetivo"></a>
 
-- if...else
-- while
-- for loop
+Criei este projeto pessoal para aprender novas funcionalidades do Java e novas lógicas de programação, para trazer a prática em atividades fundamentais relacionadas ao Java
